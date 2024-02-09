@@ -36,6 +36,13 @@ The goal was to build a smart system capable of swiftly processing real-time dat
 - Used Python in JupyterLab to generate random data records, simulating customer information.
 - Utilized Apache NiFi to transfer the generated data to an AWS S3 bucket for scalable storage and real-time access.
 - Leveraged Snowpipe, Snowflake streams, and tasks for real-time data processing and automatic updates.
+
+
+## AWS S3
+
+![App Screenshot](https://github.com/VennapusaManoj1998/Developing-Real-Time-Data-Processing-with-AWS-Docker-NiFi-and-Snowflake./blob/main/AWS_S3.png)
+
+
 ## Project 
 
 **Data Generation with Faker Python Library**
